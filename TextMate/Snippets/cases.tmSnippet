@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>case ${1:\$str} "$2" [
+	$0
+]</string>
+	<key>name</key>
+	<string>cases</string>
+	<key>scope</key>
+	<string>source.cubescript</string>
+	<key>tabTrigger</key>
+	<string>cs</string>
+	<key>uuid</key>
+	<string>4308B191-2FC7-44A3-BAD1-1BD69CD72975</string>
+</dict>
+</plist>

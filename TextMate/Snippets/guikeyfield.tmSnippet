@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>guikeyfield ${1:\$var} ${2:\$maxlength} [$0]</string>
+	<key>name</key>
+	<string>guikeyfield</string>
+	<key>scope</key>
+	<string>source.cubescript</string>
+	<key>tabTrigger</key>
+	<string>gkf</string>
+	<key>uuid</key>
+	<string>DCD8205B-C143-42C7-BCD3-35FBB1B58DB4</string>
+</dict>
+</plist>

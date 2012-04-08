@@ -1,0 +1,8 @@
+<snippet>
+	<description>case</description>
+	<content><![CDATA[case ${1:\$int} ${2:0} [
+	$0
+]]]></content>
+	<tabTrigger>c</tabTrigger>
+	<scope>source.cubescript</scope>
+</snippet>

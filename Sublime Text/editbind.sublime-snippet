@@ -1,0 +1,6 @@
+<snippet>
+	<description>editbind</description>
+	<content><![CDATA[editbind ${1:key} [ $0 ]]]></content>
+	<tabTrigger>eb</tabTrigger>
+	<scope>source.cubescript</scope>
+</snippet>

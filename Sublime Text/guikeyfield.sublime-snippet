@@ -1,0 +1,6 @@
+<snippet>
+	<description>guikeyfield</description>
+	<content><![CDATA[guikeyfield ${1:\$var} ${2:\$maxlength} [$0]]]></content>
+	<tabTrigger>gkf</tabTrigger>
+	<scope>source.cubescript</scope>
+</snippet>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>guicheckbox ${1:\$name} ${2:\$var} ${3:\$onvalue} ${4:\$offvalue} [$0]</string>
+	<key>name</key>
+	<string>guicheckbox</string>
+	<key>scope</key>
+	<string>source.cubescript</string>
+	<key>tabTrigger</key>
+	<string>gc</string>
+	<key>uuid</key>
+	<string>E3E78F3F-B89A-43C5-97BA-A807E081C70D</string>
+</dict>
+</plist>

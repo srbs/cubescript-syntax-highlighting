@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Symbol List: Methods</string>
+	<key>scope</key>
+	<string>source.cubescript entity.name.function</string>
+	<key>settings</key>
+	<dict>
+		<key>showInSymbolList</key>
+		<integer>1</integer>
+		<key>symbolTransformation</key>
+		<string>
+		s/\s{2,}/ /g;
+		s/.*/$0/g;
+	</string>
+	</dict>
+	<key>uuid</key>
+	<string>A2697343-ADFB-42D0-ACE5-8C0BE5ADA982</string>
+</dict>
+</plist>

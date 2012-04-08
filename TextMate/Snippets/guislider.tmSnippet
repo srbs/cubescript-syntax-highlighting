@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>guislider ${1:\$var} ${2:\$min} ${3:\$max} [$0]</string>
+	<key>name</key>
+	<string>guislider</string>
+	<key>scope</key>
+	<string>source.cubescript</string>
+	<key>tabTrigger</key>
+	<string>gs</string>
+	<key>uuid</key>
+	<string>23AED538-BA5F-4499-A387-859E756C66B7</string>
+</dict>
+</plist>

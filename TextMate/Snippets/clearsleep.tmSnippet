@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>clearsleep</string>
+	<key>name</key>
+	<string>clearsleep</string>
+	<key>scope</key>
+	<string>source.cubescript</string>
+	<key>tabTrigger</key>
+	<string>csl</string>
+	<key>uuid</key>
+	<string>88A95711-ADC0-441F-B84F-E14F7CB22BCD</string>
+</dict>
+</plist>
