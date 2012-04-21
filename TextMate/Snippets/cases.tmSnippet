@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>case ${1:\$str} "$2" [
+	<string>cases ${1:\$str} "$2" [
 	$0
 ]</string>
 	<key>name</key>

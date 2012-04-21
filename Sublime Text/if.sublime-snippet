@@ -1,8 +1,10 @@
 <snippet>
 	<description>if</description>
 	<content><![CDATA[if ($1) [
+	$2
+]${3: [
 	$0
-]]]></content>
+]}]]></content>
 	<tabTrigger>if</tabTrigger>
 	<scope>source.cubescript</scope>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<description>loopstr</description>
-	<content><![CDATA[loop ${1:i} (listlen ${2:\$list}) [
+	<content><![CDATA[loop ${1:i} (strlen ${2:\$str}) [
 	$1 = (substr $2 \$$1 1)
 	$0
 ]]]></content>
