@@ -1,0 +1,18 @@
+<project basedir="." default="all" name="Cubescript Syntax Highlighter Packager">
+	<target name="all">
+		<mkdir dir="build" />
+		
+		<copy todir="build/Notepad++" file="Notepad++/Cubescript.xml" />
+		
+		<copy todir="build/TextMate/Cubescript.tmbundle">
+			<fileset dir="TextMate" />
+		</copy>
+		
+		<zip destfile="build/Sublime Text/Cubescript.sublime-package" basedir="Sublime Text" />
+		
+		
+		<zip destfile="cubescript-syntax-highlighting 1.0.zip" basedir="build" />
+		
+		<delete dir="build" />
+	</target>
+</project>
