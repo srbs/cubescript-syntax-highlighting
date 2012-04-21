@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>guifield ${1:\$var} ${2:\$maxlength} [$0]</string>
+	<string>guifield ${1:var} ${2:\$maxlength} [$0]</string>
 	<key>name</key>
 	<string>guifield</string>
 	<key>scope</key>

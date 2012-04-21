@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>guislider ${1:\$var} ${2:\$min} ${3:\$max} [$0]</string>
+	<string>guislider ${1:var} ${2:\$min} ${3:\$max} [$0]</string>
 	<key>name</key>
 	<string>guislider</string>
 	<key>scope</key>

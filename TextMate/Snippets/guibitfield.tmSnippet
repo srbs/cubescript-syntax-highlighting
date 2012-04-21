@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>guibitfield ${1:\$name} ${2:\$var} ${3:\$mask} [$0]</string>
+	<string>guibitfield ${1:\$name} ${2:var} ${3:\$mask} [$0]</string>
 	<key>name</key>
 	<string>guibitfield</string>
 	<key>scope</key>

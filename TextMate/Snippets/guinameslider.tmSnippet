@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>guinameslider ${1:\$var} ${2:\$names} ${3:\$list} [$0]</string>
+	<string>guinameslider ${1:var} ${2:\$names} ${3:\$list} [$0]</string>
 	<key>name</key>
 	<string>guinameslider</string>
 	<key>scope</key>
