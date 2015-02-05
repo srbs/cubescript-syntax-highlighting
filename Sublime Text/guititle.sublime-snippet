@@ -1,6 +1,0 @@
-<snippet>
-	<description>guititle</description>
-	<content><![CDATA[guititle ${1:\$title}$0]]></content>
-	<tabTrigger>gti</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

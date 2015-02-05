@@ -1,6 +1,0 @@
-<snippet>
-	<description>guiservers</description>
-	<content><![CDATA[guiservers]]></content>
-	<tabTrigger>gserv</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

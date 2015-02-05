@@ -1,6 +1,0 @@
-<snippet>
-	<description>guinameslider</description>
-	<content><![CDATA[guinameslider ${1:var} ${2:\$names} ${3:\$list} [$0]]]></content>
-	<tabTrigger>gns</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

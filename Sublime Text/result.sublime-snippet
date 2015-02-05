@@ -1,6 +1,0 @@
-<snippet>
-	<description>result</description>
-	<content><![CDATA[result ]]></content>
-	<tabTrigger>re</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

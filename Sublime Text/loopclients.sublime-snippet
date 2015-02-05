@@ -1,8 +1,0 @@
-<snippet>
-	<description>loopclients</description>
-	<content><![CDATA[looplist ${1:i} (listclients${2: 1}) [
-	$0
-]]]></content>
-	<tabTrigger>lc</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

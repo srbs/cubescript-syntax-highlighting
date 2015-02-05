@@ -1,6 +1,0 @@
-<snippet>
-	<description>guitextbox</description>
-	<content><![CDATA[guitextbox ${1:\$text} ${2:\$width} ${3:\$height} ${4:\$color}$0]]></content>
-	<tabTrigger>gteb</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

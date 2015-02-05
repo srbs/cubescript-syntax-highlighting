@@ -1,6 +1,0 @@
-<snippet>
-	<description>guilist</description>
-	<content><![CDATA[guilist [$0]]]></content>
-	<tabTrigger>gl</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

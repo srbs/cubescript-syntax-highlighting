@@ -1,8 +1,0 @@
-<snippet>
-	<description>method</description>
-	<content><![CDATA[${1:name} = [
-	$0
-]]]></content>
-	<tabTrigger>m</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

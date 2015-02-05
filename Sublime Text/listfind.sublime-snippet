@@ -1,8 +1,0 @@
-<snippet>
-	<description>listfind</description>
-	<content><![CDATA[listfind ${1:i} ${2:\$list} [
-	$0
-]]]></content>
-	<tabTrigger>lfi</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

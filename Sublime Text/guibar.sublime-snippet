@@ -1,6 +1,0 @@
-<snippet>
-	<description>guibar</description>
-	<content><![CDATA[guibar]]></content>
-	<tabTrigger>gbar</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

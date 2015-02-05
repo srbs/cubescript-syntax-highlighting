@@ -1,8 +1,0 @@
-<snippet>
-	<description>loopfiles</description>
-	<content><![CDATA[loopfiles ${1:i} ${2:\$dir} ${3:\$ext} [
-	$0
-]]]></content>
-	<tabTrigger>lf</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

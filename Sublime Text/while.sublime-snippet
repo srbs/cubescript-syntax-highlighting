@@ -1,8 +1,0 @@
-<snippet>
-	<description>while</description>
-	<content><![CDATA[while [ $1 ] [
-	$0
-]]]></content>
-	<tabTrigger>w</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

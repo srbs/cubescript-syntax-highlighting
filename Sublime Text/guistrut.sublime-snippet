@@ -1,6 +1,0 @@
-<snippet>
-	<description>guistrut</description>
-	<content><![CDATA[guistrut ${1:\$count} ${2:\$alttext}$0]]></content>
-	<tabTrigger>gst</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>

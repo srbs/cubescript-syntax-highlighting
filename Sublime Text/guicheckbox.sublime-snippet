@@ -1,6 +1,0 @@
-<snippet>
-	<description>guicheckbox</description>
-	<content><![CDATA[guicheckbox ${1:\$name} ${2:var} ${3:\$onvalue} ${4:\$offvalue} [$0]]]></content>
-	<tabTrigger>gc</tabTrigger>
-	<scope>source.cubescript</scope>
-</snippet>
